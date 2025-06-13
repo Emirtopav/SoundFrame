@@ -18,7 +18,7 @@ Bu proje, ESP32 ve SH1106 OLED ekran kullanarak gerçek zamanlı ses frekans spe
 ## Gereksinimler
 
 - Donanım:  
-  - ESP32 (örneğin Lolin D32 Pro)  
+  - ESP32 (örneğin ESP32 LOLİN32 lite)  
   - SH1106 128x64 OLED ekran (I2C)  
 - Yazılım:  
   - Arduino IDE ve `Adafruit_SH110X` kütüphanesi  
